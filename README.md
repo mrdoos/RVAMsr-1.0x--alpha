@@ -1,4 +1,5 @@
-# RVAMsr X1.0
+# RVAMsr 1.0x
+
 
 <img src="RVAM1X.png">
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
@@ -10,7 +11,7 @@
 
 
 AI Engine - RVAMSRX
-Welcome to the AI Engine - RVAM1X, your gateway to the future of Artificial Intelligence.
+Welcome to the AI Engine - RVAMsr 1.0X, your gateway to the future of Artificial Intelligence.
 
 Overview
 RVAM1X is a cutting-edge AI engine developed by NSC that opens the door to limitless possibilities in the realm of artificial intelligence. With a focus on efficiency, scalability, and security, this engine empowers developers to create intelligent applications that stand out in a world driven by data and automation.
