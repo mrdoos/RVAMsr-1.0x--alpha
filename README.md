@@ -1,4 +1,4 @@
-# RVAM1X
+# RVAMsrX
 <img src="RVAM1X.png">
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
 █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
@@ -8,7 +8,7 @@
 
 
 
-AI Engine - RVAM1X
+AI Engine - RVAMSRX
 Welcome to the AI Engine - RVAM1X, your gateway to the future of Artificial Intelligence.
 
 Overview
@@ -21,16 +21,16 @@ Scalability: Whether you're working on small-scale AI applications or large-scal
 
 Security: Trust is paramount in AI applications, and RVAM1X prioritizes data security, ensuring the protection of sensitive information.
 
-Adaptability: From natural language processing to computer vision and predictive analytics, RVAM1X adapts to various AI domains and use cases.
+Adaptability: From natural language processing to computer vision and predictive analytics, RVAMSRX adapts to various AI domains and use cases.
 
 Getting Started
-To get started with RVAM1X, follow these simple steps:
+To get started with RVAMSRX, follow these simple steps:
 
 Installation: Check out our installation guide in the Installation Documentation.
 
 Usage: Explore the User Guide to understand how to leverage RVAM1X in your AI projects.
 
-Examples: Browse the Examples directory for sample code and projects that demonstrate RVAM1X's capabilities.
+Examples: Browse the Examples directory for sample code and projects that demonstrate RVAMSRX's capabilities.
 
 Documentation
 For in-depth information about RVAM1X, consult the full documentation.
