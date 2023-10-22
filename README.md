@@ -1,4 +1,5 @@
-# RVAMsrX
+# RVAMsr X1.0
+
 <img src="RVAM1X.png">
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
 █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
@@ -28,7 +29,7 @@ To get started with RVAMSRX, follow these simple steps:
 
 Installation: Check out our installation guide in the Installation Documentation.
 
-Usage: Explore the User Guide to understand how to leverage RVAM1X in your AI projects.
+Usage: Explore the User Guide to understand how to leverage RVAMSR 1.0X in your AI projects.
 
 Examples: Browse the Examples directory for sample code and projects that demonstrate RVAMSRX's capabilities.
 
@@ -36,7 +37,7 @@ Documentation
 For in-depth information about RVAM1X, consult the full documentation.
 
 Contribute
-We welcome contributions from the AI community. If you'd like to contribute to RVAM1X's development, please refer to our Contribution Guidelines.
+We welcome contributions from the AI community. If you'd like to contribute to RVAMsr 1.0 X's development, please refer to our Contribution Guidelines.
 
 Support
 For questions, issues, or general inquiries, feel free to reach out to our support team at support@rvam1x.ai.
