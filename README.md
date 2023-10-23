@@ -1,4 +1,4 @@
-# RVAMsr 1.0x apashe licence
+# RVAMsr 1.0x apache licence
 
 
 
