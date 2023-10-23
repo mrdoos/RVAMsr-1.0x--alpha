@@ -44,7 +44,8 @@ For questions, issues, or general inquiries, feel free to reach out to our suppo
 
 License
 apache license 
-Dive into the future of AI with RVAM1X. Get started today, and let your AI ambitions soar.
+Dive into the future of AI 
+Get started today, and let your AI ambitions soar.
 
 Please ensure that you replace the placeholder links (e.g., /docs/installation.md) with the actual links to your documentation and relevant resources. This README provides an introduction to your AI engine and guides users on how to get started with it.
 
